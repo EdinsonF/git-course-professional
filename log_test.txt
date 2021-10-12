@@ -1,0 +1,48 @@
+commit 6d25ca991025ae6cc2984dc51b9e539e9723a950
+Merge: 8db125d fa05f98
+Author: edinson_figueroa <figueroaedinson@gmail.com>
+Date:   Tue Oct 12 14:48:53 2021 -0500
+
+    solved el merge conflict
+
+commit 8db125debcfaab883c5f243c47f96b3ca1c7ba8a
+Author: edinson_figueroa <figueroaedinson@gmail.com>
+Date:   Tue Oct 12 14:46:44 2021 -0500
+
+    segunda entrada desde master
+
+commit fa05f9829b2a9689dc54b59663542c77e48f36e8
+Author: edinson_figueroa <figueroaedinson@gmail.com>
+Date:   Tue Oct 12 14:44:45 2021 -0500
+
+    segunda entra del blog
+
+commit 309ef98fd8a512c2ac94f4f14562bc13d81d5218
+Author: edinson_figueroa <figueroaedinson@gmail.com>
+Date:   Tue Oct 12 14:37:16 2021 -0500
+
+    blog produccion
+
+commit 779226f61fb6ec016b78856024590aece25a82ef
+Author: edinson_figueroa <figueroaedinson@gmail.com>
+Date:   Tue Oct 12 11:02:16 2021 -0500
+
+    eliminar ultima linea
+
+commit f0b07574a0f22dcc931c18235cb246cc968a9893
+Author: edinson_figueroa <figueroaedinson@gmail.com>
+Date:   Tue Oct 12 10:03:43 2021 -0500
+
+    this is update file test
+
+commit c1ab50f1654797ee3b6b295f1e0b797dfe31666a
+Author: edinson_figueroa <figueroaedinson@gmail.com>
+Date:   Tue Oct 12 10:00:56 2021 -0500
+
+    check command show
+
+commit 39cbd8528289d35485db379e5636bdfa5ba36e53
+Author: edinson_figueroa <figueroaedinson@gmail.com>
+Date:   Tue Oct 12 09:47:52 2021 -0500
+
+    firs commit curse git
