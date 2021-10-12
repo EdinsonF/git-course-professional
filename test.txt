@@ -1,4 +1,7 @@
-  ESTO ES UNA TEXTO, EN SEGUIMIENTO DEL CURSO DE FREDDY DE GIT Y GITHUB PROFESIONAL
+  
+  -------- TEST CURSO DE GIT --------
+  
+  Esto es una practica del seguimiendo del curso profesional del GIT y GITHUB profesional
   
 
   esto es otra linea para verigficar el comamndfo show
