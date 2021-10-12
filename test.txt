@@ -1,2 +1,4 @@
   ESTO ES UNA TEXTO, EN SEGUIMIENTO DEL CURSO DE FREDDY DE GIT Y GITHUB PROFESIONAL
   
+
+  esto es otra linea para verigficar el comamndfo show
