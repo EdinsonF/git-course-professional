@@ -1,7 +1,10 @@
 body{
   color: rgb(164, 4, 238);
-  text-align: center;
+  text-align: justify;
   font-family: Arial, Helvetica, sans-serif;
+  border: 1px solid rgb(189, 179, 179);
+  margin: 50px 150px 0 150px;
+  padding: 0 20px 0 20px;
 }
 p{
   color: rgb(7, 155, 155);
